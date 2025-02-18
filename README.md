@@ -1,6 +1,7 @@
 # msa-voting-app
 
-The original source is as follows, and the DB and Redis Connection parts were modified from the source.1
+The original source is linked below, and the DB and Redis Connection parts were modified from the source.
+
 https://github.com/dockersamples/example-voting-app
 
 ## Architecture
